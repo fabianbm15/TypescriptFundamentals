@@ -18,7 +18,7 @@ Cada carpeta contiene ejemplos y explicaciones teóricas para ayudarte a compren
 
 Puedes clonar este repositorio utilizando el siguiente comando:
 
-`git clone https://github.com/fabianbm15/TypescriptFundamentals`
+`git clone https://github.com/fabianbm15/TypescriptFundamentals.git`
 
 Luego, puedes explorar las diferentes carpetas y ejemplos de código para estudiar y practicar los conceptos cubiertos en el curso.
 
